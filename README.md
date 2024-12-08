@@ -8,4 +8,10 @@ B - https://colab.research.google.com/drive/1bf5V-Cay_WPk8x1ZrZVta-0exp8IJwB2?us
 C - https://colab.research.google.com/drive/1wSEnFjgZoXdv1msP54zyyUFFLLZEn6be?usp=sharing
 
 #Video Recording
-
+1 - https://youtu.be/PY5qNbRgmto
+2 - https://youtu.be/BnK6W67KRXU
+3 - https://youtu.be/MG0C2jMUcqg
+4 - https://youtu.be/fcSJJGMEQ5Q
+A - https://youtu.be/JRoVsc5Ndvw
+B - https://youtu.be/zkP1pb7_pSU
+C - https://youtu.be/RL7MF3j7X3I
