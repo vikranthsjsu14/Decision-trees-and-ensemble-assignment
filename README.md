@@ -7,6 +7,8 @@ A - https://colab.research.google.com/drive/105ZRu8r9IrFDs-95hK0PkluonFOibzbh?us
 B - https://colab.research.google.com/drive/1bf5V-Cay_WPk8x1ZrZVta-0exp8IJwB2?usp=sharing
 C - https://colab.research.google.com/drive/1wSEnFjgZoXdv1msP54zyyUFFLLZEn6be?usp=sharing
 
+
+Here is the video recordings of me explaining what each colab is doing
 #Video Recording
 1 - https://youtu.be/PY5qNbRgmto
 2 - https://youtu.be/BnK6W67KRXU
